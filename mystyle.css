@@ -19,9 +19,9 @@ color: white;
 text-align: center;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-style: normal;
-  font-family: cursive;
+  font-family: fantasy;
   color: white;
   text-align: center;
 }
@@ -29,4 +29,7 @@ img {
   height: 100px;
   width: 100px;
   image-orientation: center;
+}
+footer {
+  text-align: center;
 }
